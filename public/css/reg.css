@@ -1,0 +1,43 @@
+.reg-conatiner{
+    width:50%;
+    margin:0 auto;
+    padding: 0;
+
+}
+.reg-form{
+    width: 45%;
+    padding: 20px 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    box-shadow: 0 0 5px gray;
+    background: -webkit-linear-gradient(rgb(0, 221, 255,0.4),rgba(149, 0, 255, 0.3));
+    background:wegradient()
+
+}
+.reg-form h1{
+    padding: 10px;
+}
+.reg-cont{
+    padding: 10px;
+}
+ .reg-cont input{
+    width:50%;
+    padding: 10px;
+    margin: 10px;
+ }
+ .reg-cont span{
+    color:red;
+    display: block;
+    
+ }
+ .reg-btn{
+    width: 30%;
+    padding: 10px 15px;
+    margin: 10px;
+    font-weight: 600;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+ }
